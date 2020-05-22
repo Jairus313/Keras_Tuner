@@ -5,4 +5,4 @@
 - Number of filters
 - Kernel size and so on.
 
-#### This IPython notebook will walk you through it.
+#### This IPython notebook(code with commented) will walk you through it.
